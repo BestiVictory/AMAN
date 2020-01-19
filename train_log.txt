@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "sca_resnet_branch2b_3.py", line 12, in <module>
+    import theano
+ImportError: No module named theano
