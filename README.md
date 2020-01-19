@@ -16,5 +16,7 @@ captions in DPC-Captions and attribute feature maps from CSAN.
 
 The aesthetic attributes of image captions are from PCCD[1], which contains comments and a score for each of the 7 aesthetic attributes (including overall impression, etc.). However, the scale of PCCD is quite small (only 4235 images). While the AVA[2] dataset contains 255,530 images with an assessment score distribution for each image. The images and score distributions of AVA dataset are crawled from the website of DPChallenge.com. Their exist comments from multiple reviewers attached for every image. However, the multiple comments are not arranged by aesthetic attributes. We then crawl 330,000 images together with their comments from DPChallenge.com. We call this dataset AVA-Plus.    
 Images of DPC-Captions are selected from the AVA-Plus with the help of PCCD datasets. The aesthetic attributes of PCCD dataset include ***Color Lighting***, ***Composition***, ***Depth of Field***, ***Focus***, ***General Impression*** and ***Use of Camera***. For each aesthetic attribute, keywords of top 5 frequency are selected from the captions. We omit the adverbs, prepositions and conjunctions. We combine words with similar meaning such as color and colour, colors and colors. A statistic of the keywords frequency are shown in the table below.
+
+
 (The datasets can be downloaded in https://github.com/BestiVictory/DPC-Captions/)
 
