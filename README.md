@@ -9,5 +9,5 @@ the extracted features. The LGN generates the final comments by LSTM networks wh
 captions in DPC-Captions and attribute feature maps from CSAN.
 
 <div align="center">
-  <img src="https://sm.ms/image/j17EYr8eSnMwkLV", width='700'><br><br>
+  <img src="https://i.loli.net/2020/01/19/j17EYr8eSnMwkLV.jpg", width='700'><br><br>
 </div>
