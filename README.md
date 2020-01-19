@@ -29,13 +29,16 @@ impression, etc.)
 ### Environment
 *The project code needs to run on Maxwell and Pascal architecture graphics cards. Incompatibility issues may occur with newer architecture graphics cards.*
 
-Ubuntu 16.04LTS
+Ubuntu 16.04LTS, Nvidia-384, CUDA 8.0, cuDNN v7.1.3
 
 
 Theano==0.6.0
 
 
 pygpu==0.7.6
+
+
+You can run the file: *sca_resnet_branch2b.py* to get the final file. 
 
 
 ### Our Paper  
