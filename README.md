@@ -30,7 +30,11 @@ impression, etc.)
 *The project code needs to run on Maxwell and Pascal architecture graphics cards. Incompatibility issues may occur with newer architecture graphics cards.*
 
 Ubuntu 16.04LTS
+
+
 Theano==0.6.0
+
+
 pygpu==0.7.6
 
 
