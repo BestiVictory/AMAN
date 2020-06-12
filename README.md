@@ -40,6 +40,10 @@ pygpu==0.7.6
 
 You can run the file: *sca_resnet_branch2b.py* to get the final file. 
 
+### Other File (Including h5 file and other required files)
+Baidu Netdisk:
+Link：https://pan.baidu.com/s/1KwQNigSLcNiEhFS2AAa1PA 
+Password：upgb
 
 ### Our Paper  
   
